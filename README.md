@@ -1,6 +1,6 @@
 # Zadania z C++
 
-Zbior zadan laboratorynych / domowych z programowania w C++. Kazde zadanie jest w osobnym pliku `.cpp`.
+Zbior zadan podstaw programowania w C++. Kazde zadanie jest w osobnym pliku .
 
 
 ## Struktura folderow
