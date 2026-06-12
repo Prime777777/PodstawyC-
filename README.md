@@ -1,7 +1,6 @@
 # PodstawyC-
 
-Repozytorium ze zadaniami z programowania w C++ (pierwszy rok studiow). Kazde zadanie jest w osobnym pliku `.cpp`, pogrupowane wedlug rozdzialow tematycznych — od podstaw jezyka, przez petle, tablice i funkcje, az po wskazniki, struktury i pliki.
-
+Repozytorium ze zadaniami z programowania w C++.Kazde zadanie jest w osobnym pliku `.cpp`, pogrupowane wedlug rozdzialow tematycznych
 
 ## Struktura
 
