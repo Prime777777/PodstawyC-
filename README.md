@@ -20,9 +20,9 @@ Repozytorium ze zadaniami z programowania w C++ (pierwszy rok studiow). Kazde za
 | `rozdzial11/` | Struktury |
 | `rozdzial12/` | Operacje na plikach |
 
-Pliki maja nazwy `zadanie1.cpp`, `zad_pcie2.cpp` itd.
+Pliki maja nazwy `zadanie1.cpp`, `zadanie2.cpp` itd.
 
-## Jak uruchomic program
+## Jak uruchomic program przyklad
 
 ### 1. Wejdz do folderu z zadaniem
 
@@ -33,37 +33,14 @@ cd "C:\Users\Mlodszy Dzekson\Desktop\C++\rozdzial3"
 ### 2. Skompiluj
 
 ```powershell
-g++ zad_pcie1.cpp -o zad_pcie1.exe
+g++ zadanie1.cpp -o zadanie1.exe
 ```
 
 ### 3. Uruchom
 
 ```powershell
-.\zad_pcie1.exe
+.\zadanie1.exe
 ```
 
 Program wyswietli komunikaty w konsoli — wpisuj dane zgodnie z instrukcjami na ekranie.
 
-### Przyklad (rozdzial 3, zadanie 1)
-
-```powershell
-cd "C:\Users\Mlodszy Dzekson\Desktop\C++\rozdzial3"
-g++ zad_pcie1.cpp -o zad_pcie1.exe
-.\zad_pcie1.exe
-```
-
-## Rozdzial 12 — pliki tekstowe
-
-Zadania z `rozdzial12/` korzystaja z pliku `dane.txt`. **Uruchamiaj je z tego folderu**, zeby program znalazl plik:
-
-```powershell
-cd "C:\Users\Mlodszy Dzekson\Desktop\C++\rozdzial12"
-g++ zad_pcie1.cpp -o zad_pcie1.exe
-.\zad_pcie1.exe
-```
-
-## Uwagi
-
-- Wiekszosc programow wymaga danych z klawiatury.
-- Zadania z `rand()` (losowanie) moga dawac rozne wyniki przy kazdym uruchomieniu.
-- Po kompilacji powstaje plik `.exe` w tym samym folderze — nie trafia on do repozytorium (jest w `.gitignore`).
