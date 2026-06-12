@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.obj
+*.out
+*.ilk
+*.pdb
+build/
+.vscode/
+desktop.ini
